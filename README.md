@@ -2,7 +2,7 @@
 
 *Tooling notes from Phoenix Mobile Advertising.* Examples of how an AI coding agent can use MCP tools to drive a browser and read public websites, so local businesses get clear, checkable advice.
 
-This supports work for small businesses in **Eugene, Springfield, Salem, Portland and Roseburg, Oregon**: the same class of tools the big platforms use, set up for local businesses. We are not affiliated with Google, Meta or OpenAI.
+This supports work for small businesses in **Eugene, Springfield, Salem, Portland and Roseburg, Oregon**, and the Klamath Falls hometown proving ground. The same class of tools the big platforms use, set up for local businesses. We are not affiliated with Google, Meta or OpenAI.
 
 **Call 541-632-9043 or book a Business X-Ray.**
 
@@ -12,6 +12,14 @@ This supports work for small businesses in **Eugene, Springfield, Salem, Portlan
 |------|-----------|
 | [examples/mcp.json](examples/mcp.json) | Sample MCP client config: Playwright MCP and Firecrawl MCP |
 | [examples/site-intel.md](examples/site-intel.md) | A repeatable local business site intelligence checklist |
+| [demos/](demos/) | Dated, numbered demos. Each one records the method, outputs, sources and timestamps |
+| [demos/DEMO_TEMPLATE.md](demos/DEMO_TEMPLATE.md) | The demo-unit template: before video, workflow running, after video, timestamp, link |
+
+## Demos
+
+| # | Date (PT) | Demo | Status |
+|---|---|---|---|
+| 000 | Nov 17, 2026 | [Klamath Falls market scan](demos/2026-11-17-klamath-market-scan/): population, 20-provider scan, domain scan, partner terms check | Written proof done. Video slots pending |
 
 ## The two MCP servers
 
@@ -29,6 +37,6 @@ Package names were checked against the npm registry on 2026-11-17: `@playwright/
 
 ## Sibling repos
 
-[phoenix-portfolio](https://github.com/williamboyd1221-bit/phoenix-portfolio) | [phoenix-mobile](https://github.com/williamboyd1221-bit/phoenix-mobile) | [rise-brand](https://github.com/williamboyd1221-bit/rise-brand) | [phoenix-vows](https://github.com/williamboyd1221-bit/phoenix-vows)
+[phoenix-portfolio](https://github.com/williamboyd1221-bit/phoenix-portfolio) | [phoenix-mobile](https://github.com/williamboyd1221-bit/phoenix-mobile) | [phoenix-vows](https://github.com/williamboyd1221-bit/phoenix-vows)
 
 Site: [Phoenix Systems AI](https://phoenix-systems-ai.vercel.app)
